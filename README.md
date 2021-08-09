@@ -1,6 +1,12 @@
-# HOW TO USE
+# HOW TO USE (EXE)
 
-mm open `BIN_GENERATOR.exe` and you will figure it out
+mm download from release, then open `BIN_GENERATOR.exe` and you will figure it out
+
+# HOW TO USE (PYTHON)
+
+you dont use it ig
+
+its pretty self explanatory
 
 # WHY
 
